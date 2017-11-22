@@ -12,7 +12,7 @@
     width: 960px;
 }
 h1.wrj_logo {
-    background: url("http://whiterabbitjapan.com/images/white-rabbit-japan-logo.png") no-repeat scroll 0 0 transparent !important;
+    background: url("https://whiterabbitjapan.com/images/white-rabbit-japan-logo.png") no-repeat scroll 0 0 transparent !important;
     float: left;
     height: 51px;
     width: 206px;
@@ -27,7 +27,7 @@ h1.wrj_logo {
 }
 .wrj_header {
 	background-color: #333333 !important;
-    background: url("http://shop.whiterabbitjapan.com/skin/frontend/galapellente/default/images/header-bg.png") repeat-x scroll 0 0 transparent;
+    background: url("https://shop.whiterabbitjapan.com/skin/frontend/galapellente/default/images/header-bg.png") repeat-x scroll 0 0 transparent;
     height: 51px;
     width: 100%;
     position:fixed;
@@ -67,7 +67,7 @@ h1.wrj_logo {
     visibility: hidden;
 }
 h1.wrj_logo {
-    background: url("http://shop.whiterabbitjapan.com/skin/frontend/galapellente/default/images/white-rabbit-japan-logo.png") no-repeat scroll 0 0 transparent;
+    background: url("https://shop.whiterabbitjapan.com/skin/frontend/galapellente/default/images/white-rabbit-japan-logo.png") no-repeat scroll 0 0 transparent;
     float: left;
     height: 51px;
     width: 206px;
@@ -80,7 +80,7 @@ h1.wrj_logo {
     text-shadow: none;
 }
 .wrj_header {
-    background: url("http://shop.whiterabbitjapan.com/skin/frontend/galapellente/default/images/header-bg.png") repeat-x scroll 0 0 transparent;
+    background: url("https://shop.whiterabbitjapan.com/skin/frontend/galapellente/default/images/header-bg.png") repeat-x scroll 0 0 transparent;
     height: 51px;
     width: 100%;
 }
